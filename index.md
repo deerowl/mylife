@@ -1,4 +1,5 @@
 ## Welcome to my High school No.13 (1993--1996)
+<a href="https://github.com/owldeer/mylife/luobo.html">照片轮播</a>
 <table class="table">
   <thead>
     <tr>
@@ -320,7 +321,7 @@
     </tr>
     <tr>
       <th scope="row">45</th>
-      <td>王岩松</td>
+      <td>修岩松</td>
       <td>13*********</td>
       <td>暂无</td>
       <td>教育人士</td>
@@ -384,6 +385,13 @@
     <tr>
       <th scope="row">50</th>
       <td>关勋</td>
+      <td>13*********</td>
+      <td>暂无</td>
+      <td>传感人士</td>
+    </tr>
+    <tr>
+      <th scope="row">50</th>
+      <td>刘莹</td>
       <td>13*********</td>
       <td>暂无</td>
       <td>传感人士</td>
