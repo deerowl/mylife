@@ -1,5 +1,5 @@
 ## Welcome to my High school No.13 (1993--1996)
-<a href="https://owldeer.github.io/mylife/luobo.html">照片轮播</a>
+<a href="https://owldeer.github.io/mylife/lunbo.html">照片轮播</a>
 <table class="table">
   <thead>
     <tr>
