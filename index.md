@@ -1,5 +1,5 @@
 ## Welcome to my High school No.13 (1993--1996)
-<bgsound src="./music/Bernadette Carol - Laughing on the Outside" loop="-1">
+
 <a href="https://owldeer.github.io/mylife/lunbo.html">照片轮播</a>
 <table class="table">
   <thead>
